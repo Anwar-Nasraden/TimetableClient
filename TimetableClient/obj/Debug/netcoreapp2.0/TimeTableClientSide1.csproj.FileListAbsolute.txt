@@ -1,0 +1,10 @@
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\TimeTableClientSide1.deps.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\TimeTableClientSide1.runtimeconfig.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\TimeTableClientSide1.runtimeconfig.dev.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\TimeTableClientSide1.dll
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\TimeTableClientSide1.pdb
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\TimeTableClientSide1.csproj.CoreCompileInputs.cache
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\TimeTableClientSide1.AssemblyInfoInputs.cache
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\TimeTableClientSide1.AssemblyInfo.cs
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\TimeTableClientSide1.dll
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\TimeTableClientSide1.pdb

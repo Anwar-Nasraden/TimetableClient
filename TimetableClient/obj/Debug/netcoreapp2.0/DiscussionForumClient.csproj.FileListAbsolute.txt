@@ -1,0 +1,44 @@
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.deps.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.dev.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csprojResolveAssemblyReference.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csproj.CoreCompileInputs.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfoInputs.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfo.cs
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\labs\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.deps.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.dev.json
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csprojResolveAssemblyReference.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csproj.CoreCompileInputs.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfoInputs.cache
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfo.cs
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\gary\OneDrive\ASP.Net Core 2\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.deps.json
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.json
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.dev.json
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csprojAssemblyReference.cache
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csproj.CoreCompileInputs.cache
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfoInputs.cache
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfo.cs
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\GC\Web API\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.deps.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.runtimeconfig.dev.json
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\bin\Debug\netcoreapp2.0\DiscussionForumClient.pdb
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csprojAssemblyReference.cache
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.csproj.CoreCompileInputs.cache
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfoInputs.cache
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.AssemblyInfo.cs
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.dll
+C:\Users\anesr\Downloads\DiscussionForumClient\DiscussionForumClient\obj\Debug\netcoreapp2.0\DiscussionForumClient.pdb
